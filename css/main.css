@@ -114,6 +114,7 @@ textarea {
    }
 
    .p-absolute{
+     width: 40%;
      display:none;
      position: absolute;
      top: 40%;

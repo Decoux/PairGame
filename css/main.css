@@ -114,11 +114,11 @@ textarea {
    }
 
    .p-absolute{
-     width: 40%;
+     width: 60%;
      display:none;
      position: absolute;
-     top: 40%;
-     left: 40%;
+     top: 31%;
+     left: 20%;
    }
 
    .p-fixed{
